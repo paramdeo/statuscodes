@@ -1,0 +1,5 @@
+name = "statuscodes"
+type = "javascript"
+route = "statuscodes.org/*"
+zone_id = "34718e0cf210aaef9476c8e50a68d24c"
+compatibility_date = "2021-09-19"

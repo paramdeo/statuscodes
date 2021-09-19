@@ -1,0 +1,16 @@
+{
+  "name": "statuscodes.org",
+  "version": "1.0.0",
+  "description": "A web service that returns HTTP response status codes for testing purposes and other use cases.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paramdeo/statuscodes.org.git"
+  },
+  "author": "Paramdeo Singh",
+  "license": "MIT",
+  "homepage": "https://statuscodes.org"
+}
