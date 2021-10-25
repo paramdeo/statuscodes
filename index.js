@@ -3,7 +3,7 @@ async function handleRequest(request) {
     // Isolate & sanitize the path
     const requestPath = requestURL.pathname.substring(1);
   
-    var httpStatuses = [
+    const httpStatuses = [
       "100 Continue",
       "101 Switching Protocols",
       "102 Processing",
