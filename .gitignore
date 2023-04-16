@@ -1,2 +1,3 @@
 .history
-.log
+wrangler.toml
+node_modules
